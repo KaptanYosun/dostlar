@@ -1,27 +1,10 @@
-﻿{	
+{	
 "dostlar":[{
 	"adi":"idris cetin",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
 	"okulu":"oda yok suan",
 	"memleketi":"Sinop",
 	},
-{
-	"adi":"KMTG",
-	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=truen",
-	"okulu":"oda yok suan",
-	"memleketi":"Tokat",
-	},
-{
-	"adi":"Muhammed Arslan",
-	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"oda yok suan",
-	"memleketi":"Samsun",
-	},
-{
-	"adi":"Oguzhan Emekli",
-	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"oda yok suan",
-	"memleketi":"Malatya",
-	},
+
 ]
 }
