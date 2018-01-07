@@ -5,6 +5,24 @@
 	"okulu":"oda yok suan",
 	"memleketi":"Sinop",
 	},
+	   {
+	"adi":"Kmtg",
+	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
+	"okulu":"oda yok suan",
+	"memleketi":"Tokat",
+	},
+	   {
+	"adi":"Oğuzhan Emekli",
+	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
+	"okulu":"oda yok suan",
+	"memleketi":"Malatya",
+	},
+	   {
+	"adi":"Muhammed Arslan",
+	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
+	"okulu":"oda yok suan",
+	"memleketi":"Samsun",
+	},
 
 ]
 }
