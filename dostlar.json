@@ -1,14 +1,14 @@
 {	
 "dostlar":[{
 	"id":1,
-	"adi":"Idriscetin",
+	"adi":"Idris cetin",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
 	"okulu":"KarabukUniversitesi",
 	"memleketi":"Sinop",
 	},
 	   {
 	"id":2,
-	"adi":"Kmtg",
+	"adi":"Kemal muhammed Taha Gunes",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
 	"okulu":"Karabuk Universitesi",
 	"memleketi":"Tokat",
