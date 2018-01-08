@@ -1,8 +1,5 @@
-{"dostlar":["dostlar":{
-  "id":1,
-  "adi":"Idris cetin",
-  "resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png",
-  "okulu":"Karabuk Universitesi",
-  "memleketi":"Sinop",}
- ]}
+{"dostlar":[
+    { "id":1, "adi":"Doe","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" }
+]}
+
 
