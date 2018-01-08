@@ -1,5 +1,8 @@
 {"dostlar":[
-    { "id":1, "adi":"Doe","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" }
+    { "id":1, "adi":"Idris Cetin","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
+    { "id":1, "adi":"Kmtk","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
+    { "id":1, "adi":"Oguzhan Emekli","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
+    { "id":1, "adi":"Muhammed Arslan","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" }
 ]}
 
 
