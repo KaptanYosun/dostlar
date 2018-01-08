@@ -1,30 +1,30 @@
 {	
 "dostlar":[{
 	"id":1,
-	"adi":"idris cetin",
+	"adi":"Idris cetin",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"Karabük Üniversitesi",
+	"okulu":"Karabuk Universitesi",
 	"memleketi":"Sinop",
 	},
 	   {
 	"id":2,
 	"adi":"Kmtg",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"Karabük Üniversitesi",
+	"okulu":"Karabuk Universitesi",
 	"memleketi":"Tokat",
 	},
 	   {
 	"id":3,
-	"adi":"Oğuzhan Emekli",
+	"adi":"Oguzhan Emekli",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"Karabük Üniversitesi",
+	"okulu":"Karabuk Universitesi",
 	"memleketi":"Malatya",
 	},
 	   {
 	"id":4,
 	"adi":"Muhammed Arslan",
 	"resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png?raw=true",
-	"okulu":"Karabük Üniversitesi",
+	"okulu":"Karabuk Universitesi",
 	"memleketi":"Samsun",
 	}
 
