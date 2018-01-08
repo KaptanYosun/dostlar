@@ -2,7 +2,8 @@
     { "id":1, "adi":"Idris Cetin","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Bilgisayar Muhendisligi","memleketi":"Sinop" },
     { "id":2, "adi":"Kemal Gunes","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Bilgisayar Muhendisligi","memleketi":"Tokat" },
     { "id":3, "adi":"Oguzhan Emekli","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Tarih","memleketi":"Malatya" },
-    { "id":4, "adi":"Muhammed Arslan","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Tarih","memleketi":"Samsun" }
+    { "id":4, "adi":"Muhammed Arslan","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Tarih","memleketi":"Samsun" },
+     { "id":4, "adi":"Ömer Faruk Taş","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Tarih","memleketi":"Adıyaman" }
 ]}
 
 
