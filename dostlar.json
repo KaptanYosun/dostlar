@@ -1,6 +1,6 @@
 {"dostlar":[
     { "id":1, "adi":"Idris Cetin","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
-    { "id":2, "adi":"Kemal Muhammed Taha Gunes","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Tokat" },
+    { "id":2, "adi":"Kemal Gunes","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Tokat" },
     { "id":3, "adi":"Oguzhan Emekli","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Malatya" },
     { "id":4, "adi":"Muhammed Arslan","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Samsun" }
 ]}
