@@ -1,5 +1,5 @@
 {"dostlar":[
-    { "id":1, "adi":"Idris Cetin","resmi":"https://scontent.fbtz1-9.fna.fbcdn.net/v/t1.0-9/1620465_1381428785456322_1959398242_n.jpg?oh=8275654e56fe9c2c306ec76150af8c5a&oe=5AF78DA4","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
+    { "id":1, "adi":"Idris Cetin","resmi":"http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/image4.png","okulu":"Karabuk Universitesi","memleketi":"Sinop" },
     { "id":2, "adi":"Kemal Muhammed Taha Gunes","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Tokat" },
     { "id":3, "adi":"Oguzhan Emekli","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Malatya" },
     { "id":4, "adi":"Muhammed Arslan","resmi":"https://github.com/KaptanYosun/dostlar/blob/master/image.png","okulu":"Karabuk Universitesi","memleketi":"Samsun" }
